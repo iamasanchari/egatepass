@@ -1,0 +1,42 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.btn-roundEdge{
+  border-radius: 15px;
+  padding-left: 35px;
+  padding-right:35px;
+}
+
+.btn-round-flat-pill{
+  border-radius: 35px;
+  padding-left: 55px;
+  padding-right:55px;
+}
+
+.div-round-pill-pd{
+  border-radius: 15px;
+  padding-left: 15px;
+  padding-right:15px;
+}
+
+
+.menuitem-roundEdge{
+  border-radius: 15px;
+  padding-left: 35px;
+  padding-right:35px;
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
